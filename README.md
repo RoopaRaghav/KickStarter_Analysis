@@ -50,6 +50,6 @@ To make it easy the table is added with two extra columns Goal min range and max
 -  The Dataset doesnot have canceled projects in the client interested Theater/Plays. 
 
 ## What are some other possible tables and/or graphs that we could create?
-  -We could generate how many staff picked goals outcomes within the deadline are successful, failed or canceled applying a country filter.
+ - We could generate how many staff picked goals outcomes within the deadline are successful, failed or canceled applying a country filter.
     
 
