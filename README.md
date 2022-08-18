@@ -20,7 +20,8 @@ This analysis is done based on the Outcomes based on the launch date for the cli
 
 ### Analysis of Outcomes Based on Goals
 This analysis is done based on the Outcomes based on Goals for the client intereted subcategory "Plays".The chart suggests that at lower goal values the percantage of successful outcomes of the project are more. As the goal value increased the success rate decreased. In this analysis also the Live outcomes are minimal and not considered.
-![image](https://user-images.githubusercontent.com/111100908/185479126-c329186a-3dc2-4cbc-a36f-f7adc63ab9ab.png)
+![image](https://user-images.githubusercontent.com/111100908/185483709-dbbde492-dc9f-4210-8288-69eb0ad8c5c4.png)
+
 
 
 ### Challenges and Difficulties Encountered
