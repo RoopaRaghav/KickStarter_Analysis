@@ -25,7 +25,7 @@ This analysis is done based on the Outcomes based on Goals for the client intere
 
 
 ### Challenges and Difficulties Encountered
-The percentage of canceled projects are zero or very minimum in both the analysis shows that the analysis has ouliers.But the canceled projects were cross checked with actual dataset and found that the results visualised in charts are appropriate.
+The percentage of canceled projects are zero or very minimum in both the analysis shows that the analysis has outliers.But the canceled projects were cross checked with actual dataset and found that the results visualised in charts are appropriate.
 
 There were few difficulties while caluculating the outcomes based on the range of Goal amount. The outcomes were calculated based on $5000 increments in the analysis.
 To make it easy the table is added with two extra columns Goal min range and max range and used them in the CountIFS operation.
